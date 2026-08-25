@@ -349,8 +349,8 @@
       Актуальная версия всегда доступна по адресу:
     </p>
     <p>
-      <a href="https://savstudio.github.io/dozp/privacy-policy">
-        https://savstudio.github.io/dozp/privacy-policy
+      <a href="https://582016aafg-web.github.io/privacy-policy/">
+        https://582016aafg-web.github.io/privacy-policy/
       </a>
     </p>
     <p>
